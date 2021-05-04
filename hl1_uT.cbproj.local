@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.10.10 12:33:59.179.cpp,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Unit1.cpp=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1.cpp</Transaction>
+    <Transaction>2010.10.10 12:33:59.221.h,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Unit1.h=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1.h</Transaction>
+    <Transaction>2010.10.10 12:33:59.221.dfm,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Unit1.dfm=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1.dfm</Transaction>
+    <Transaction>2010.10.10 12:34:07.185.cbproj,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Project1.cbproj=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1_uT.cbproj</Transaction>
+    <Transaction>2010.10.11 01:52:00.234.dll,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.dll=</Transaction>
+    <Transaction>2010.10.11 01:56:20.091.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex_bc.lib=</Transaction>
+    <Transaction>2010.10.11 01:56:20.147.hpp,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmod.hpp=</Transaction>
+    <Transaction>2010.10.11 01:56:20.161.h,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmod_errors.h=</Transaction>
+    <Transaction>2010.10.11 01:56:20.211.h,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmod.h=</Transaction>
+    <Transaction>2010.10.11 02:04:57.540.dll,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.dll=</Transaction>
+    <Transaction>2010.10.11 02:15:20.079.h,C:\Program Files\FMOD SoundSystem\FMOD Programmers API Win32\api\inc\fmod.h=</Transaction>
+    <Transaction>2010.10.11 11:42:24.376.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.lib=</Transaction>
+    <Transaction>2010.10.11 11:45:19.335.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.lib=</Transaction>
+    <Transaction>2010.10.11 15:31:35.146.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex_bc.lib=</Transaction>
+    <Transaction>2010.10.11 15:33:11.192.hpp,C:\Program Files\FMOD SoundSystem\FMOD Programmers API Win32\api\inc\fmod.hpp=</Transaction>
+    <Transaction>2010.10.11 15:33:11.224.h,C:\Program Files\FMOD SoundSystem\FMOD Programmers API Win32\api\inc\fmod_errors.h=</Transaction>
+    <Transaction>2010.10.11 15:43:34.109.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex_bc.lib=</Transaction>
+    <Transaction>2010.10.11 15:49:46.203.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\minifmod.lib=</Transaction>
+    <Transaction>2010.10.11 16:13:36.690.dll,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.dll=</Transaction>
+    <Transaction>2010.10.11 20:25:04.906.dll,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.dll=</Transaction>
+    <Transaction>2010.10.11 20:41:20.670.dll,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex.dll=</Transaction>
+    <Transaction>2010.10.11 21:23:41.537.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\fmodex_bc.lib=</Transaction>
+    <Transaction>2010.10.11 22:36:08.594.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\minifmod.lib=</Transaction>
+    <Transaction>2010.10.11 22:44:58.284.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\minifmod.lib=</Transaction>
+    <Transaction>2010.10.11 22:45:19.556.lib,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Winmm.lib=</Transaction>
+    <Transaction>2010.10.11 23:43:04.262.h,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\resource.h=</Transaction>
+    <Transaction>2010.10.11 23:43:07.400.rc,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1.rc=</Transaction>
+    <Transaction>2010.10.11 23:43:07.400.dfm,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1.dfm=</Transaction>
+    <Transaction>2010.10.11 23:56:55.223.XM,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\igromusic.XM=</Transaction>
+    <Transaction>2010.10.12 01:03:42.938.mod,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\ghostbusters.mod=</Transaction>
+    <Transaction>2010.10.12 18:05:20.900.XM,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\vicomm.XM=</Transaction>
+    <Transaction>2010.10.14 19:02:21.005.bmp,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\IgroLog.bmp=</Transaction>
+    <Transaction>2010.10.15 00:46:34.377.cpp,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Unit2.cpp=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Credits.cpp</Transaction>
+    <Transaction>2010.10.15 00:46:34.377.h,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Unit2.h=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Credits.h</Transaction>
+    <Transaction>2010.10.15 00:46:34.377.dfm,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Unit2.dfm=C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\Credits.dfm</Transaction>
+    <Transaction>2010.10.16 17:28:22.340.rc,C:\Users\Igromanru\Documents\RAD Studio\Projekte\Half-Life Unlimited Trainer\hl1_uT_resources.rc=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="hl1.cpp"/>
+    <File Path="hl1.cpp"/>
+    <File Path="hl1.dfm"/>
+    <File Path="hl1.h"/>
+    <File Path="hl1_uT.cpp"/>
+    <File Path="hl1_uT.res"/>
+    <File Path="ufmod.lib"/>
+    <File Path="c64love.xm"/>
+    <File Path="IgroLogo11.png"/>
+    <File Path="IgroLogo12.png"/>
+    <File Path="waiting.png"/>
+    <File Path="found.png"/>
+    <File Path="Credits.cpp"/>
+    <File Path="Credits.cpp"/>
+    <File Path="Credits.dfm"/>
+    <File Path="Credits.h"/>
+    <File Path="hl1_res.rc"/>
+  </ProjectSortOrder>
+</BorlandProject>
